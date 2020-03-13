@@ -1,7 +1,5 @@
 # Learning Git
 
-## CV list
-
 - [Chretien Alexis](./cv/CHRETIEN_ALEXIS.md)
 - [Maillot Jennifer](./cv/MAILLOT_JENNIFER.md)
 
